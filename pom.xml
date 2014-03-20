@@ -965,7 +965,7 @@
       <dependencies>
         <dependency>
           <groupId>org.fusesource.scalate</groupId>
-          <artifactId>scalate-jrebel_2.10</artifactId>
+          <artifactId>scalate-jrebel_2.11</artifactId>
           <version>${project.version}</version>
         </dependency>
       </dependencies>
